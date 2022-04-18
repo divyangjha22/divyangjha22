@@ -5,17 +5,18 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Surge Crypto](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **HTML,CSS,JS & Reactjs**
 
 - 🌱 I’m currently learning **ML and AI, Django and React native and many more**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/divyangjha22)**
+- 👨‍💻 All of my projects are available at **[My github](https://github.com/divyangjha22)**
 
 - 📫 How to reach me **divyangjha22@gmail.com**
 
-- ⚡ Fun fact **It’s all about 0’s and 1’s**
+- ⚡ Fun fact ** The first programmer was the daughter of a mad poet
+**
 
 ## 🚀 Languages and Tools:
 
