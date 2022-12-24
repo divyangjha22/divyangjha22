@@ -5,11 +5,9 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **HTML,CSS,JS & Reactjs**
+- 🔭 I’m currently working on **Data Science, Machine Learning**
 
-- 🌱 I’m currently learning **ML and AI, Django and React native and many more**
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 🌱 I’m currently learning **AI, DL, NLP, CV and many more**
 
 - 👨‍💻 All of my projects are available at **[My github](https://github.com/divyangjha22)**
 
