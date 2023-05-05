@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="Github_profile.png" height="175px"/></a>
 
-<h1 align="center">Hey there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,Divyang this side</h1>
-<h3 align="center">I'm a passionate Front-end Developer from India.</h3>
+<h1 align="center">Hey there !! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Divyang this side</h1>
+<h3 align="center">I'm a AI/ML enthusaist from India.</h3>
 
 ## 🙋‍♂️ About Me
 
